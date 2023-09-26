@@ -63,7 +63,7 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 .side{
-   max-width: 20%;
+   width: 20%;
   max-height: 800px;
 }
 .contant-photo{
